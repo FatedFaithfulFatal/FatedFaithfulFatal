@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanda (but you can just call me Fated)</h1>
+<h1 align="center">Hi 👋 I'm Amanda (but you can just call me Fated)</h1>
 <h3 align="center">Former Linux SysAdmin. Now a mom. Working on updating my skillset & becoming a freelance developer as well as a valuable contributor to the open source community.</h3>
 
 - 🔭 I’m currently working on **learning & building my portfolio**
