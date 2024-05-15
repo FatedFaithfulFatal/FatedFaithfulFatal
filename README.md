@@ -15,7 +15,13 @@
 
 - 📫 How to reach me **https://discordapp.com/users/1184493705873326140**
 
-- 📄 Know about my experiences **previously a linux sys admin. No formal education or training in the field.**
+- 📄 Know about my experiences:
+  
+previously a sys admin with no formal education or training in the field. managing the entirety of the company’s info systems from the network equipment, NAS, hypervisors, & the RHEL servers, to tech support for workstations, to managing and writing new scripts & functions, and designing forms for the company database. 
+
+I knew enough to get things done, but not necessarily done the best way, or even the right way in some cases. In some cases I could accomplish very advanced tasks (in one particular instance doing something that multiple people with many years of experience, degrees in the field, and very high paid positions at a company we occasionally reached out to when we were unable to figure something out ourselves, said was not even possible), yet still not know some very basic command or best practice because being self taught I simply looked things up as needed leaving many holes in my knowledge. This was all AFTER I had performed just about every other position at the company as well as redesigning the website which had been stuck in the 90’s with the primary color being “blue” (while it was 2012). 
+
+I was a jack of all trades and a bit of a MacGyver. Some bash scripts here, some Xbasic there, a little SQL, and for extra fun “oh now because our target market is defense contractors, we have to work on becoming NIST compliant” so now I’m dealing with CSET and having to deal with cyber security. I was valuable at that company but after having to take an extended maternity leave for various personal reasons (and therefore no longer having that position to go back to), I found my skill set was outdated, incomplete, and too specialized to find work elsewhere.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
